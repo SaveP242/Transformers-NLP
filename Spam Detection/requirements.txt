@@ -1,0 +1,6 @@
+pip install os
+pip install pandas
+pip install transformers
+pip install sklearn
+pip install torch
+pip install tensorflow
